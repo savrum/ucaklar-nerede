@@ -1,0 +1,36 @@
+* {
+  white-space: pre-line;
+}
+
+.abs-center {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.nav {
+  position: absolute;
+  bottom: 1rem;
+  left: 1rem;
+  z-index: 1;
+  border-radius: 1rem;
+  padding: 1rem;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.wall {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #000000DA;
+  z-index: 2;
+}
+
+.leaflet-container {
+  inset: 0!important
+}

@@ -1,0 +1,62 @@
+{
+  "28a4f944": {
+    "type": "Drone",
+    "owner": "Türk Silahlı Kuvvetleri",
+    "callsign": "TB2T172"
+  },
+  "28a5d1d0": {
+    "type": "Drone",
+    "owner": "Türk Silahlı Kuvvetleri",
+    "callsign": "TB2T165"
+  },
+  "28a63bed": {
+    "type": "Drone",
+    "owner": "Türk Silahlı Kuvvetleri",
+    "callsign": "TCB803"
+  },
+  "28a5958e": {
+    "type": "Drone",
+    "owner": "Türk Silahlı Kuvvetleri",
+    "callsign": "TCB803"
+  },
+  "28a6971f": {
+    "type": "Drone",
+    "owner": "Türk Silahlı Kuvvetleri",
+    "callsign": "TCHVM"
+  },
+  "28a4bdac": {
+    "type": "Drone",
+    "owner": "Türk Silahlı Kuvvetleri",
+    "callsign": "TCB807"
+  },
+  "28a533e9": {
+    "type": "Drone",
+    "owner": "Türk Silahlı Kuvvetleri",
+    "callsign": "TB2T173"
+  },
+  "28a67ae3": {
+    "type": "Uçak",
+    "owner": "Hırvatistan Hava Kuvvetleri",
+    "callsign": "HR888"
+  },
+  "28a68714": {
+    "type": "Uçak",
+    "owner": "İspanyol Hava Kuvvetleri",
+    "callsign": "AME4301"
+  },
+  "28a6b292": {
+    "type": "Helikopter",
+    "owner": "Orman Genel Müdürlüğü",
+    "callsign": "OR3125"
+  },
+  "28a64d62": {
+    "type": "Helikopter",
+    "owner": "Orman Genel Müdürlüğü",
+    "callsign": "OR3127"
+  },
+  "28a68435": {
+    "type": "Helikopter",
+    "owner": "Orman Genel Müdürlüğü",
+    "callsign": "OR3126"
+  }
+}
