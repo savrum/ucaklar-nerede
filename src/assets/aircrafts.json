@@ -19,7 +19,17 @@
     "owner": "Türk Silahlı Kuvvetleri",
     "callsign": "TCB805"
   },
+  "28a84a00": {
+    "type": "Drone",
+    "owner": "Türk Silahlı Kuvvetleri",
+    "callsign": "TB2T174"
+  },
   "28a6971f": {
+    "type": "Drone",
+    "owner": "Türk Silahlı Kuvvetleri",
+    "callsign": "TCB807"
+  },
+  "28aa76b6": {
     "type": "Drone",
     "owner": "Türk Silahlı Kuvvetleri",
     "callsign": "TCB807"
