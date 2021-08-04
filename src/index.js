@@ -16,7 +16,7 @@ const Map = () => {
   const [planes, setPlanes] = useState([]);
 
   const GetPlanes = useCallback(() => {
-    Promise.all(Object.keys(aircrafts).map((id) => fetch(`https://thingproxy.freeboard.io/fetch/https://data-live.flightradar24.com/clickhandler/?version=1.5&flight=${id}`)
+    Promise.all(Object.keys(aircrafts).map((id) => fetch(`https://ucaknerede.herokuapp.com/${id}`)
       .then((data) => data.json())
       .then((data) => data))).then((data) => {
       setPlanes(data);
