@@ -49,6 +49,11 @@
     "owner": "Türk Silahlı Kuvvetleri",
     "callsign": "TCB809"
   },
+  "28aacc5a": {
+    "type": "Drone",
+    "owner": "Türk Silahlı Kuvvetleri",
+    "callsign": "TCJ15"
+  },
   "28a533e9": {
     "type": "Drone",
     "owner": "Türk Silahlı Kuvvetleri",
@@ -59,10 +64,30 @@
     "owner": "Türk Silahlı Kuvvetleri",
     "callsign": "TB2T174"
   },
+  "28aac76d": {
+    "type": "Drone",
+    "owner": "Türk Silahlı Kuvvetleri",
+    "callsign": "TB2T177"
+  },
   "28a67ae3": {
     "type": "Uçak",
     "owner": "Hırvatistan Hava Kuvvetleri",
     "callsign": "HR888"
+  },
+  "28ab98a7": {
+    "type": "Uçak",
+    "owner": "Rus Hava Kuvvetleri",
+    "callsign": "RA76845"
+  },
+  "28abaa09": {
+    "type": "Uçak",
+    "owner": "Rus Hava Kuvvetleri",
+    "callsign": "RFF9926"
+  },
+  "28ab52a7": {
+    "type": "Uçak",
+    "owner": "Rus Hava Kuvvetleri",
+    "callsign": "RF311120"
   },
   "28a68714": {
     "type": "Uçak",
@@ -79,14 +104,19 @@
     "owner": "Orman Genel Müdürlüğü",
     "callsign": "OR3127"
   },
-  "28a68435": {
+  "28ab57b2": {
     "type": "Helikopter",
     "owner": "Orman Genel Müdürlüğü",
     "callsign": "OR3126"
   },
-  "28a9c29e": {
+  "28aba688": {
     "type": "Helikopter",
     "owner": "Orman Genel Müdürlüğü",
     "callsign": "OR3133"
+  },
+  "28ab488d": {
+    "type": "Helikopter",
+    "owner": "Artic Grup (Ukrayna)",
+    "callsign": "URCIT"
   }
 }
